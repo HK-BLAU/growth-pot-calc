@@ -47,7 +47,7 @@ def calc_probs(start_level, target_level, level_probs, return_last=True):
 
 #example usage
 
-level_probs = load_probs()
-start_level = 169
-target_level = 194
-print(calc_probs(170, 'a', level_probs))
+#level_probs = load_probs()
+#start_level = 169
+#target_level = 194
+#print(calc_probs(start_level, target_level, level_probs))
